@@ -1,0 +1,12 @@
+Invoice No. 2026-0417
+
+Customer: Northwind Trading Ltd.
+Date: 17 November 2026
+
+1. Office chairs (x4) ........ 1,240.00
+2. Standing desk (x1) ........ 890.50
+3. Monitor arms (x2) .......... 199.98
+
+Subtotal: 2,330.48
+VAT (19%): 442.79
+Total due: 2,773.27

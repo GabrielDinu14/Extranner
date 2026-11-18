@@ -1,0 +1,13 @@
+Smart Document Scanner
+Photos of documents are often tilted, have shadows,
+reflections or noise and do not allow direct copying
+of the text. Manual data entry is slow and prone to
+errors. This project proposes a desktop application
+that automatically detects and corrects the document
+in a photo, enhances the image and extracts the text
+into an editable file.
+
+Input: photos of printed documents, preferably a
+single visible page.
+Output: scanned image and recognized text, editable
+and exportable as UTF-8 .txt file.
