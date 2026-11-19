@@ -12,7 +12,7 @@ import word_export
 
 PREVIEW_WIDTH = 800
 PREVIEW_HEIGHT = 600
-LANGUAGES = {"eng": "eng", "rom & eng": "ron+eng", "rom": "ron"}
+LANGUAGES = {"eng": "eng", "ron+eng": "ro & eng", "ron": "ro"}
 
 
 def cv_to_pil(image):
